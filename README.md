@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Dev1822/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
