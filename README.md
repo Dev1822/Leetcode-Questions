@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Dev1822/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
