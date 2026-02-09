@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1693-daily-leads-and-partners](https://github.com/Dev1822/Leetcode-Questions/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dev1822/Leetcode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dev1822/Leetcode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
