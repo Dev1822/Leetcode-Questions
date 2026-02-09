@@ -9,10 +9,7 @@ class Solution(object):
         for i in range(n):
             for j in range(n):
                 if boxes[j]=='1':
-                    x=i-j
-                    if x<0:
-                        x=0-x
-                    res[i]+=x
+                    res[i] += abs(i - j)
 
         return res
         
