@@ -6,6 +6,7 @@ class Solution(object):
         """
         i=0
         j=len(s)-1
+        x=s
         while i<j and s[i]==s[j]:
             ch=s[i]
             while i<=j and s[i]==ch:
@@ -13,5 +14,6 @@ class Solution(object):
             while i<=j and s[j]==ch:
                 j-=1
         
-        return j-i+1 if i<=j else 0
+        x=s[i:j+1]
+        return len(x)
             
