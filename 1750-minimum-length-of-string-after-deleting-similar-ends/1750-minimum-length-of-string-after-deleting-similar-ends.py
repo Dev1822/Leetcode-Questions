@@ -6,7 +6,6 @@ class Solution(object):
         """
         i=0
         j=len(s)-1
-        x=s
         while i<j and s[i]==s[j]:
             ch=s[i]
             while i<=j and s[i]==ch:
