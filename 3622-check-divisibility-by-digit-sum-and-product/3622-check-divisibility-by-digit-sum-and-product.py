@@ -4,13 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        sum=0
-        product=1
-        temp=n
-        while temp>0:
-            last=temp%10
-            sum+=last
-            product=product*last
-            temp=temp//10
-
-        return n%(sum+product)==0
+        s=0
+        p=1
+        N=n
+        while(n>0):
+            a=n%10
+            s+=a
+            p*=a
+            n//=10
+        return (N%(s+p)==0)
