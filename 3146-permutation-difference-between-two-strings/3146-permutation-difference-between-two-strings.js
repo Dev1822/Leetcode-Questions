@@ -12,9 +12,7 @@ var findPermutationDifference = function(s, t) {
     let pd=0;
     let x;
     for(let j=0;j<len;j++){
-        x=m.get(t[j])-j;
-        if(x<0) x=0-x
-        pd+=x
+        pd+=Math.abs(m.get(t[j])-j)
     }
     return pd
 };
