@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
