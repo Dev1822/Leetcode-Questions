@@ -5,8 +5,8 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        res=[]
-        for i in range(n):
-            res.append(nums[i])
-            res.append(nums[i+n])
+        res=[0]*(2*n)
+        for i in range(0,2*n,2):
+            res[i]=nums[i//2]
+            res[i+1]=nums[i//2+n]
         return res
