@@ -10,12 +10,16 @@ var reverseVowels = function(s) {
             vowels.push(i);
         }
     }
-    vowels=vowels.reverse();
+    vowlen=vowels.length
+    reversed=[]
+    for (let i=vowlen-1;i>=0;i--) {
+        reversed.push(vowels[i]);
+    }
     let index = 0;
     let result = "";
     for (let i of s) {
         if (isVowel.has(i)) {
-            result += vowels[index];
+            result += reversed[index];
             index++
         } 
         else {
