@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dev1822/Leetcode-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Dev1822/Leetcode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Dev1822/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
