@@ -6,9 +6,6 @@ class Solution(object):
         """
         res=[]
         for i in nums:
-            num=[]
-            while i>0:
-                num.insert(0,i%10)
-                i=i//10
-            res=res+num
+            for j in str(i):
+                res.append(int(j))
         return res
