@@ -7,9 +7,8 @@ class Solution(object):
         sum=0
         length=len(nums)
         for i in range(length):
-            x=nums[i]
             if i%2==0:
-                sum+=x
+                sum+=nums[i]
             else:
-                sum-=x
+                sum-=nums[i]
         return sum
