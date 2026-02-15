@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dev1822/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dev1822/Leetcode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
