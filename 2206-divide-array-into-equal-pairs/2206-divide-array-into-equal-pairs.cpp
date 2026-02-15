@@ -1,18 +1,13 @@
-#include <unordered_set>
-using namespace std;
-
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_set<int> s;
-
-        for (int n : nums) {
-            if (s.count(n))
-                s.erase(n);
-            else
-                s.insert(n);
+        map <int,int> m={};
+        for(int i : nums){
+            m[i]++;
         }
-
-        return s.empty();
+        for(auto& [key, value] : m){
+            if(value%2!=0) return false;
+        }
+        return true;
     }
 };
