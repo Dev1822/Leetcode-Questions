@@ -5,5 +5,5 @@ class Solution(object):
         :type k: int
         :rtype: List[List[int]]
         """
-        points.sort(key=lambda p: (p[0]**2 + p[1]**2)**0.5)
+        points.sort(key=lambda p: p[0]**2 + p[1]**2)
         return points[:k]
