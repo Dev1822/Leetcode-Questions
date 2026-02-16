@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1470-shuffle-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
