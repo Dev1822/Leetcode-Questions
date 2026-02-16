@@ -8,7 +8,7 @@ public:
         }
         int i = 1;
         while(true){
-            if(!s.count(i)) return i;
+            if(s.find(i)==s.end()) return i;
             i++;
         }
     }
