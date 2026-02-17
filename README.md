@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Dev1822/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dev1822/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
@@ -259,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dev1822/Leetcode-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dev1822/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
