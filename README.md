@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
