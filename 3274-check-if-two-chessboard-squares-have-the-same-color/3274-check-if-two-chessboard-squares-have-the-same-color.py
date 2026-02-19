@@ -5,8 +5,8 @@ class Solution(object):
         :type coordinate2: str
         :rtype: bool
         """
-        first1=ord(coordinate1[0])%2==0
-        second1=int(coordinate1[1])%2==0
-        first2=ord(coordinate2[0])%2==0
-        second2=int(coordinate2[1])%2==0
-        return (first1!=second1)==(first2!=second2)
+        first1=ord(coordinate1[0])
+        second1=int(coordinate1[1])
+        first2=ord(coordinate2[0])
+        second2=int(coordinate2[1])
+        return ((first1+second1)%2==0)==((first2+second2)%2==0)
