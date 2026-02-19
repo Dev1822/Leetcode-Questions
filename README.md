@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dev1822/Leetcode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2129-capitalize-the-title](https://github.com/Dev1822/Leetcode-Questions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Dev1822/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Dev1822/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
