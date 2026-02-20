@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dev1822/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Dev1822/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dev1822/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
