@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dev1822/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dev1822/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev1822/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0283-move-zeroes) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev1822/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
