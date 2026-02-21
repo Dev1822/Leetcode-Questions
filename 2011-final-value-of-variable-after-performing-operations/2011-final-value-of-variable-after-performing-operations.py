@@ -6,7 +6,7 @@ class Solution(object):
         """
         x=0
         for i in operations:
-            if i[0]=="-" or i[-1]=="-":
+            if i[1]=="-":
                 x=x-1
             else:
                 x=x+1
