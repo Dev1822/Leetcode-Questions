@@ -9,7 +9,8 @@ class Solution(object):
         length=len(nums)
         for i in range(length):
             for j in range(i+1,length):
-                if abs(nums[i]-nums[j])==k:
+                sum=nums[i]-nums[j]
+                if sum==k or 0-sum==k:
                     count+=1
 
         return count
