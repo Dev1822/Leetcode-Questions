@@ -8,6 +8,5 @@ class Solution(object):
         """
         for i in range(k):
             minimum = min(nums)
-            index = nums.index(minimum)
-            nums[index]*=multiplier
+            nums[nums.index(minimum)]*=multiplier
         return nums
