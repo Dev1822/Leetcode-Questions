@@ -5,6 +5,12 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        a=min(nums2)
-        b=min(nums1)
+        a=nums2[0]
+        for i in nums2:
+            if i<a:
+                a=i
+        b=nums1[0]
+        for i in nums1:
+            if i<b:
+                b=i
         return a-b
