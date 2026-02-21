@@ -5,6 +5,4 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        nums1.sort()
-        nums2.sort()
-        return nums2[0]-nums1[0]
+        return min(nums2)-min(nums1)
