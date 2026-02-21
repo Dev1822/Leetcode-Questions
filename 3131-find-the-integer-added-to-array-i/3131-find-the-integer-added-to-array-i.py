@@ -9,8 +9,10 @@ class Solution(object):
         b=nums1[0]
         length=len(nums1)
         for i in range(length):
-            if a<nums2[i]:
-                a=nums2[i]
-            if b<nums1[i]:
-                b=nums1[i]
+            ae=nums2[i]
+            be=nums1[i]
+            if a<ae:
+                a=ae
+            if b<be:
+                b=be
         return a-b
