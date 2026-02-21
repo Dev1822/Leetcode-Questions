@@ -5,4 +5,6 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        return min(nums2)-min(nums1)
+        a=min(nums2)
+        b=min(nums1)
+        return a-b
