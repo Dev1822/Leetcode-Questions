@@ -6,8 +6,7 @@ class Solution(object):
         :rtype: List[int]
         """
         res=[]
-        length=len(height)
-        for i in range(1,length):
+        for i in range(1,len(height)):
             if height[i-1]>threshold:
                 res.append(i)
         return res
