@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Dev1822/Leetcode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dev1822/Leetcode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
