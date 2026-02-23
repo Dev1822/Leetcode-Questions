@@ -4,5 +4,4 @@ class Solution(object):
         :type n: str
         :rtype: int
         """
-        n=map(lambda x: int(x),n)
-        return max(n)
+        return int(max(n))
