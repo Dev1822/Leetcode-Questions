@@ -5,10 +5,6 @@ class Solution(object):
         :rtype: bool
         """
         length=len(word)
-        if length<3:
-            return False
-        if not word.isalnum():
-            return False
         vowels="aeiouAEIOU"
         vowel=False
         consonant=False
@@ -17,4 +13,4 @@ class Solution(object):
                 vowel=True
             elif i.isalpha():
                 consonant=True
-        return vowel and consonant
+        return vowel and consonant and length>=3 and word.isalnum()
