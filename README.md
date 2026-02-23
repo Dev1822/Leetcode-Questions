@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dev1822/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Dev1822/Leetcode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1323-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting
 |  |
 | ------- |
