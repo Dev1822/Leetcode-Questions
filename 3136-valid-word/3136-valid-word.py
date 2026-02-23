@@ -4,13 +4,11 @@ class Solution(object):
         :type word: str
         :rtype: bool
         """
-        length=len(word)
-        vowels="aeiouAEIOU"
         vowel=False
         consonant=False
         for i in word:
-            if i in vowels:
+            if i in "aeiouAEIOU":
                 vowel=True
             elif i.isalpha():
                 consonant=True
-        return vowel and consonant and length>=3 and word.isalnum()
+        return vowel and consonant and len(word)>=3 and word.isalnum()
