@@ -9,5 +9,5 @@ class Solution(object):
         a=[1]*n
         for j in range(k):
             for i in range(1, n):
-                a[i]=(a[i]+a[i-1])%modulo
-        return a[n-1]
+                a[i]=(a[i]+a[i-1])
+        return a[n-1]%modulo
