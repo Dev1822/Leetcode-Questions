@@ -9,11 +9,13 @@ class Solution(object):
         rightSum=[0]*length
         ls=0
         rs=0
+        right=length-1
         for i in range(length):
             leftSum[i]=ls
-            rightSum[length-i-1]=rs
-            rs+=nums[length-i-1]
+            rightSum[right]=rs
+            rs+=nums[right]
             ls+=nums[i]
+            right-=1
         res=[0]*length
         for i in range(length):
             s=leftSum[i]-rightSum[i]
