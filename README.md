@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dev1822/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev1822/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dev1822/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
