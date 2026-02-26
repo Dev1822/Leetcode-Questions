@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        leftSum=[]
-        rightSum=[]
         length=len(nums)
+        leftSum=[0]*length
+        rightSum=[0]*length
         for i in range(length):
-            leftSum.append(sum(nums[:i]))
-            rightSum.append(sum(nums[i+1:]))
+            leftSum[i]=sum(nums[:i])
+            rightSum[i]=sum(nums[i+1:])
         res=[0]*length
         for i in range(length):
             res[i]=abs(leftSum[i]-rightSum[i])
