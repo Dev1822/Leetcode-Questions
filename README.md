@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Dev1822/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dev1822/Leetcode-Questions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
