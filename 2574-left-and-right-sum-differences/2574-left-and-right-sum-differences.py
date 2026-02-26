@@ -7,9 +7,13 @@ class Solution(object):
         length=len(nums)
         leftSum=[0]*length
         rightSum=[0]*length
+        ls=0
+        rs=0
         for i in range(length):
-            leftSum[i]=sum(nums[:i])
-            rightSum[i]=sum(nums[i+1:])
+            leftSum[i]=ls
+            rightSum[length-i-1]=rs
+            rs+=nums[length-i-1]
+            ls+=nums[i]
         res=[0]*length
         for i in range(length):
             res[i]=abs(leftSum[i]-rightSum[i])
