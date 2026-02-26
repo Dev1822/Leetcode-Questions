@@ -16,5 +16,8 @@ class Solution(object):
             ls+=nums[i]
         res=[0]*length
         for i in range(length):
-            res[i]=abs(leftSum[i]-rightSum[i])
+            s=leftSum[i]-rightSum[i]
+            if s<0:
+                s=0-s
+            res[i]=s
         return res
