@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Dev1822/Leetcode-Questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dev1822/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dev1822/Leetcode-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
