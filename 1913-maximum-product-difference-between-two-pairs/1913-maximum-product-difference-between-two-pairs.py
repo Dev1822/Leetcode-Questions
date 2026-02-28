@@ -4,10 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        largest=max(nums)
-        nums.remove(largest)
-        secondlargest=max(nums)
-        smallest=min(nums)
-        nums.remove(smallest)
-        secondsmallest=min(nums)
+        largest=float("-inf")
+        secondlargest=float("-inf")
+        smallest=float("inf")
+        secondsmallest=float("inf")
+        for i in nums:
+            if i>largest:
+                secondlargest=largest
+                largest=i
+            elif i>secondlargest:
+                secondlargest=i
+            if i<smallest:
+                secondsmallest=smallest
+                smallest=i
+            elif i<secondsmallest:
+                secondsmallest=i
         return (largest*secondlargest)-(smallest*secondsmallest)
