@@ -7,4 +7,4 @@ class Solution(object):
         """
         res=[int(i) for i in nums]
         res.sort()
-        return str(res[-k])
+        return str(res[len(res)-k])
