@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
