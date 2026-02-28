@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dev1822/Leetcode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/Dev1822/Leetcode-Questions/tree/master/2103-rings-and-rods) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
@@ -381,11 +385,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Geometry
 |  |
 | ------- |
