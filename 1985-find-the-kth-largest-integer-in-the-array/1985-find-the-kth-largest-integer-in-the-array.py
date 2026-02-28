@@ -5,9 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        length=len(nums)
-        res=[0]*length
-        for i in range(length):
-            res[i]=int(nums[i])
+        res=[int(i) for i in nums]
         res.sort()
         return str(res[-k])
