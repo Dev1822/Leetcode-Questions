@@ -5,7 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        nums=map(lambda x:int(x),nums)
-        for i in range(k-1):
-            nums.remove(max(nums))
-        return str(max(nums))
+        length=len(nums)
+        res=[0]*length
+        for i in range(length):
+            res[i]=int(nums[i])
+        res.sort()
+        return str(res[-k])
