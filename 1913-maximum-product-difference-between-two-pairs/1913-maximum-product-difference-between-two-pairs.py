@@ -4,5 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort()
-        return (nums[-1]*nums[-2])-(nums[0]*nums[1])
+        largest=max(nums)
+        nums.remove(largest)
+        secondlargest=max(nums)
+        smallest=min(nums)
+        nums.remove(smallest)
+        secondsmallest=min(nums)
+        return (largest*secondlargest)-(smallest*secondsmallest)
