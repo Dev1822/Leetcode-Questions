@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dev1822/Leetcode-Questions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dev1822/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dev1822/Leetcode-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
