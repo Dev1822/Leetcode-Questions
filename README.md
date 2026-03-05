@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dev1822/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Dev1822/Leetcode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev1822/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Dev1822/Leetcode-Questions/tree/master/3794-reverse-string-prefix) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
