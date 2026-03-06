@@ -20,15 +20,9 @@ public:
             }
         }
 
-        if(score1>score2){
-            return 1;
-        }
-        else if(score2>score1){
-            return 2;
-        }
-        else{
-            return 0;
-        }
+        if(score1>score2) return 1;
+        else if(score2>score1) return 2;
+        return 0;
 
     }
 };
