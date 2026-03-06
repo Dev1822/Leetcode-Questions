@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/Dev1822/Leetcode-Questions/tree/master/1037-valid-boomerang) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dev1822/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dev1822/Leetcode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Dev1822/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
