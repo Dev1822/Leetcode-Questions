@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-Select e1.name as "Employee"
-from employee e1
-Left Join employee e2
-on e1.managerId=e2.id
-where e1.salary>e2.salary;
+SELECT e2.name as Employee FROM employee e1
+INNER JOIN employee e2
+ON e1.id=e2.managerId
+WHERE e1.salary<e2.salary
