@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dev1822/Leetcode-Questions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dev1822/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
 | ------- |
