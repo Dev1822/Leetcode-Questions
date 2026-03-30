@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Dev1822/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dev1822/Leetcode-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dev1822/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Dev1822/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Greedy
 |  |
 | ------- |
