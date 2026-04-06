@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dev1822/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dev1822/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dev1822/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Dev1822/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dev1822/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev1822/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/0169-majority-element) |
