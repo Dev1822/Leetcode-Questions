@@ -5,10 +5,10 @@ public:
         int i=0;
         int j=s.size()-1;
         while(i<j){
-            while(i<j && isVowel.count(s[i])==0){
+            while(i<j && !isVowel.contains(s[i])){
                 i++;
             }
-            while(i<j && isVowel.count(s[j])==0){
+            while(i<j && !isVowel.contains(s[j])){
                 j--;
             }
             swap(s[i],s[j]);
