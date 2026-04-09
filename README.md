@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/Dev1822/Leetcode-Questions/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Dev1822/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Dev1822/Leetcode-Questions/tree/master/3136-valid-word) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2810-faulty-keyboard](https://github.com/Dev1822/Leetcode-Questions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
