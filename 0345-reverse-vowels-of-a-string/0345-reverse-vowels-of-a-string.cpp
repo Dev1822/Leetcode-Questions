@@ -1,30 +1,20 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        set <int> isVowel={'a','e','i','o','u','A','E','I','O','U'};
-        vector <char> vowels={};
-        for(char i : s){
-            if(isVowel.count(i)==1){
-                vowels.push_back(i);
+        set <char> isVowel={'a','e','i','o','u','A','E','I','O','U'};
+        int i=0;
+        int j=s.size()-1;
+        while(i<j){
+            while(i<j && isVowel.count(s[i])==0){
+                i++;
             }
-        }
-        int vowlen=vowels.size();
-        vector <char> reversed={};
-        for (int i=vowlen-1;i>=0;i--) {
-            reversed.push_back(vowels[i]);
-        }
-        int index = 0;
-        string result = "";
-        for (int i : s) {
-            if (isVowel.count(i)==1) {
-                result += reversed[index];
-                index++;
-            } 
-            else {
-                result += i;
+            while(i<j && isVowel.count(s[j])==0){
+                j--;
             }
+            swap(s[i],s[j]);
+            i++;
+            j--;
         }
-
-        return result;
+        return s;
     }
 };
