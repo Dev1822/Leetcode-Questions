@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dev1822/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev1822/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
