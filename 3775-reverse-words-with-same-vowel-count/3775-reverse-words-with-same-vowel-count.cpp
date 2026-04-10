@@ -26,24 +26,21 @@ public:
         if(start==length){
             return s;
         }
-        int count=0;
-        string x="";
         for(int i=start+1;i<length;i++){
-            if(check(s[i])){
-                count++;
-            }
-            if(s[i]!=' '){
-                x+=s[i];
-            }
-            if(s[i]==' ' || i==length-1){
-                if(count==vowels){
-                    x=reverseString(x);
+            int count=0;
+            string x="";
+            while(s[i]!=' ' && i<length){
+                if(check(s[i])){
+                    count++;
                 }
-                count=0;
-                res+=" ";
-                res+=x;
-                x="";
+                x+=s[i];
+                i++;
             }
+            if(count==vowels){
+                x=reverseString(x);
+            }
+            res+=" ";
+            res+=x;
         }
 
         return res;
