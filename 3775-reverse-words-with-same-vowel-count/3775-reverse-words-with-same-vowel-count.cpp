@@ -3,14 +3,6 @@ public:
     bool check(char c){
         return c=='a' || c=='e' || c=='i' || c=='o' || c=='u';
     }
-    string reverseString(string x){
-        string reversed="";
-        int length=x.size()-1;
-        for(int i=length;i>=0;i--){
-            reversed+=x[i];
-        }
-        return reversed;
-    }
     string reverseWords(string s) {
         string res="";
         int start=0;
@@ -37,7 +29,7 @@ public:
                 i++;
             }
             if(count==vowels){
-                x=reverseString(x);
+                reverse(x.begin(),x.end());
             }
             res+=" ";
             res+=x;
