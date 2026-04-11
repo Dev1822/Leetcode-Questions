@@ -10,15 +10,10 @@ public:
                 obj[i]=1;
             }
         }
-        multiset <int> freq={};
+        set <int> freq={};
         for(auto& [key,value] : obj){
             freq.insert(value);
         }
-        for(auto& [key,value] : obj){
-            if(freq.count(value)!=1){
-                return false;
-            }
-        }
-        return true;
+        return freq.size()==obj.size();
     }
 };
