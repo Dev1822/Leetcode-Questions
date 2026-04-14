@@ -3,29 +3,22 @@ public:
     string longestCommonPrefix(vector<string>& strs) {
         string res="";
         int length=strs.size();
-        bool found=true;
-        vector <int> lens={};
-        for(string i : strs){
-            lens.push_back(i.size());
-        }
-        sort(lens.begin(),lens.end());
-        int minlength=lens[0];
-        for(int i=0;i<minlength;i++){
-            string x=res+strs[0][i];
+        int loop=true;
+        int index=0;
+        string x="";
+        while(loop && strs[0][index]){
+            x+=strs[0][index];
             for(string i : strs){
                 if(i.find(x)!=0){
-                    found=false;
+                    loop=false;
                     break;
                 }
             }
-            if(found){
+            if(loop){
                 res=x;
             }
-            else{
-                break;
-            }
+            index++;
         }
         return res;
-        
     }
 };
