@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Dev1822/Leetcode-Questions/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Dev1822/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dev1822/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev1822/Leetcode-Questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/2974-minimum-number-game) |
