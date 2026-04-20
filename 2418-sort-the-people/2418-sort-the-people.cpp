@@ -4,7 +4,7 @@ public:
         map <int,string> obj={};
         int length=names.size();
         for(int i=0;i<length;i++){
-            obj.insert({heights[i],names[i]});
+            obj[heights[i]]=names[i];
         }
         vector <string> res={};
         for(auto& [key,value] : obj){
