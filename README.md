@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dev1822/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Dev1822/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Dev1822/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Dev1822/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/0326-power-of-three) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dev1822/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Dev1822/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev1822/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Dev1822/Leetcode-Questions/tree/master/0278-first-bad-version) |
