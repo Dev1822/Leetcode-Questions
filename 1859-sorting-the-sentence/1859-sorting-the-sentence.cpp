@@ -18,21 +18,22 @@ public:
                 word+=s[i];
                 i++;
             }
-            int index=s[i]-'0';
-            sentence[index-1]=word;
+            int position=s[i] - '0';
+            sentence[position-1]=word;
             i++;
-            if (i < length && s[i] == ' ') i++;
-        }
-        string res="";
-        int spaceAdded=0;
-        for(string i : sentence){
-            res+=i;
-            if(spaceAdded<spaces){
-                res+=" ";
-                spaceAdded++;
+            if(i<length && s[i]==' '){
+                i++;
             }
         }
-
+        string res="";
+        int spacesAdded=0;
+        for(string i : sentence){
+            res+=i;
+            if(spacesAdded<spaces){
+                res+=" ";
+                spacesAdded++;
+            }
+        }
         return res;
     }
 };
