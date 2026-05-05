@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dev1822/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dev1822/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Dev1822/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dev1822/Leetcode-Questions/tree/master/0342-power-of-four) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dev1822/Leetcode-Questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Dev1822/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dev1822/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
