@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Dev1822/Leetcode-Questions/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dev1822/Leetcode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Dev1822/Leetcode-Questions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
