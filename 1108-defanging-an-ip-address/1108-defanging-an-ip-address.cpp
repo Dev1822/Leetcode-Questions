@@ -2,7 +2,7 @@ class Solution {
 public:
     string defangIPaddr(string address) {
         string res="";
-        for(char i : address){
+        for(auto& i : address){
             if(i=='.'){
                 res+="[.]";
             }
