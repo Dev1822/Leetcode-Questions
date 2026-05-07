@@ -1,8 +1,8 @@
 class Solution {
 public:
     string interpret(string command) {
-        int length=command.size();
         string res="";
+        int length=command.size();
         for(int i=0;i<length;i++){
             if(command[i]=='G'){
                 res+='G';
@@ -16,6 +16,7 @@ public:
                 }
             }
         }
+
         return res;
     }
 };
