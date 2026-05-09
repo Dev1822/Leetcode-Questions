@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Dev1822/Leetcode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dev1822/Leetcode-Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Dev1822/Leetcode-Questions/tree/master/2235-add-two-integers) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
 | ------- |
