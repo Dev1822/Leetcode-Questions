@@ -4,10 +4,10 @@ public:
         string res="";
         for(char i : s){
             int ascii=i;
-            if(65<=i && i<=90){
-                i+=32;
+            if(65<=ascii && ascii<=90){
+                ascii+=32;
             }
-            char c=i;
+            char c=ascii;
             res+=c;
         }
         return res;
