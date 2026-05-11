@@ -1,15 +1,22 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int x = 0, y = 0;
-
-        for(char i : moves) {
-            if(i == 'U') y++;
-            else if(i == 'D') y--;
-            else if(i == 'L') x--;
-            else if(i == 'R') x++;
+        vector <int> position={0,0};
+        for(char i : moves){
+            if(i=='U'){
+                position[1]++;
+            }
+            else if(i=='D'){
+                position[1]--;
+            }
+            else if(i=='L'){
+                position[0]--;
+            }
+            else if(i=='R'){
+                position[0]++;
+            }
         }
 
-        return x == 0 && y == 0;
+        return position==vector<int>{0,0};
     }
 };
