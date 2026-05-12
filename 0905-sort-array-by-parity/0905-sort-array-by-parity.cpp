@@ -3,18 +3,19 @@ public:
     vector<int> sortArrayByParity(vector<int>& nums) {
         vector <int> even={};
         vector <int> odd={};
-        int length=nums.size();
-        for(int i=0;i<length;i++){
-            if(nums[i]%2==0){
-                even.push_back(nums[i]);
+        for(int i : nums){
+            if(i%2==0){
+                even.push_back(i);
             }
             else{
-                odd.push_back(nums[i]);
+                odd.push_back(i);
             }
         }
 
-        even.insert(even.end(), odd.begin(), odd.end());
+        vector <int> res={};
+        res.insert(res.end(),even.begin(),even.end());
+        res.insert(res.end(),odd.begin(),odd.end());
 
-        return even;
+        return res;
     }
 };
