@@ -1,12 +1,12 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        int length=nums.size();
+        if(length==0) return 0;
         sort(nums.begin(),nums.end());
-        int length=nums.size()-1;
-        if(length==-1) return 0;
-        int max=0;
         int count=0;
-        for(int i=0;i<length;i++){
+        int max=0;
+        for(int i=0;i<length-1;i++){
             if(nums[i]==nums[i+1]){
                 continue;
             }
