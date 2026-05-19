@@ -6,10 +6,10 @@ public:
         int oddSum=0;
         for(int i=0;i<length;i++){
             if(i%2==0){
-                evenSum+=num[i]-'0';
+                evenSum+=num[i] - '0';
             }
             else{
-                oddSum+=num[i]-'0';
+                oddSum+=num[i] - '0';
             }
         }
         return evenSum==oddSum;
