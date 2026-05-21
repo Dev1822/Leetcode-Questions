@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dev1822/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Dev1822/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dev1822/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dev1822/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Dev1822/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
