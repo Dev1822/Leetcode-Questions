@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Dev1822/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dev1822/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Dev1822/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Dev1822/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dev1822/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1822/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
