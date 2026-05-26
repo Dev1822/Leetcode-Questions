@@ -1,23 +1,23 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_set <int> asciiSet={};
+        unordered_set <int> asciiCount={};
         int count=0;
         for(char i : word){
-            int ascii=i;
+            int ascii=i; 
             int check;
             if(65<=ascii && ascii<=90){
                 check=ascii+32;
             }
             else{
-                check=ascii-32;
+                check=ascii-32; 
             }
-            if(asciiSet.count(check)){
-                if(!(asciiSet.count(ascii))){
+            if(asciiCount.count(check)){
+                if(!asciiCount.count(ascii)){
                     count++;
                 }
             }
-            asciiSet.insert(i);
+            asciiCount.insert(i);
         }
         return count;
     }
