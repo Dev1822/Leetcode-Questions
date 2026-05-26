@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Dev1822/Leetcode-Questions/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Dev1822/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/Dev1822/Leetcode-Questions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dev1822/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
