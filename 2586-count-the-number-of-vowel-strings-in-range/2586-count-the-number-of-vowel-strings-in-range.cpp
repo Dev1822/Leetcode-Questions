@@ -4,7 +4,8 @@ public:
         set <char> vowels={'a','e','i','o','u'};
         int count=0;
         for(int i=left;i<=right;i++){
-            if(vowels.count(words[i][0]) && vowels.count(words[i][words[i].size()-1])){
+            string word=words[i];
+            if(vowels.count(word[0]) && vowels.count(word[word.size()-1])){
                 count++;
             }
         }
