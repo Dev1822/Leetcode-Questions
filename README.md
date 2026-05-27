@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Dev1822/Leetcode-Questions/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev1822/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Dev1822/Leetcode-Questions/tree/master/2810-faulty-keyboard) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Dev1822/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev1822/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev1822/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3046-split-the-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dev1822/Leetcode-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
