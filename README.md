@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dev1822/Leetcode-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Dev1822/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/Dev1822/Leetcode-Questions/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
