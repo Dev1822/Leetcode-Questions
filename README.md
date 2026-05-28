@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2270-number-of-ways-to-split-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dev1822/Leetcode-Questions/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dev1822/Leetcode-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/Dev1822/Leetcode-Questions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
