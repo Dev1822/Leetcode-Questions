@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Dev1822/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev1822/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev1822/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dev1822/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev1822/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev1822/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
