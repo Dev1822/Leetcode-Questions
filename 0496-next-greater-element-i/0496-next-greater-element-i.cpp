@@ -11,7 +11,7 @@ public:
                     break;
                 }
             }
-            bool found=false;
+            int found=false;
             for(int j=index;j<length2;j++){
                 if(nums2[j]>nums1[i]){
                     nums1[i]=nums2[j];
