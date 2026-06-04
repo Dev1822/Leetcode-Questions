@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Dev1822/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev1822/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev1822/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dev1822/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dev1822/Leetcode-Questions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
