@@ -2,10 +2,10 @@ class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
         vector <string> res={};
-        int index=0;
         int last=target[target.size()-1];
+        int index=0;
         for(int i=1;i<=last;i++){
-            if(target[index]==i){
+            if(i==target[index]){
                 res.push_back("Push");
                 index++;
             }
