@@ -6,9 +6,7 @@ public:
         for(int i=0;i<len;i++){
             int x=nums[i];
             if(hm.count(x)){
-                int abs=hm[x]-i;
-                if(abs<0) abs=0-abs;
-                if(abs<=k) return true;
+                if(abs(hm[x]-i)<=k) return true;
             }
             hm[x]=i;
         }
