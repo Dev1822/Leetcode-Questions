@@ -4,11 +4,10 @@ public:
         map <int,int> hm={};
         int len=nums.size();
         for(int i=0;i<len;i++){
-            int x=nums[i];
-            if(hm.count(x)){
-                if(abs(hm[x]-i)<=k) return true;
+            if(hm.count(nums[i])){
+                if(abs(hm[nums[i]]-i)<=k) return true;
             }
-            hm[x]=i;
+            hm[nums[i]]=i;
         }
         return false;
     }
