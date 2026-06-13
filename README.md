@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Dev1822/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dev1822/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/Dev1822/Leetcode-Questions/tree/master/1037-valid-boomerang) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
