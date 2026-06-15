@@ -13,9 +13,7 @@ public:
 
         int count = 0;
 
-        for (auto& pair : obj) {
-            int key = pair.first;
-            int value = pair.second;
+        for (auto& [key,value] : obj) {
 
             if (value == 1) {
                 count += key;
