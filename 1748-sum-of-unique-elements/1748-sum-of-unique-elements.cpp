@@ -4,11 +4,7 @@ public:
         unordered_map<int, int> obj;
 
         for (int i : nums) {
-            if (obj.count(i)) {
-                obj[i] = obj[i] + 1;
-            } else {
-                obj[i] = 1;
-            }
+            obj[i]++;
         }
 
         int count = 0;
