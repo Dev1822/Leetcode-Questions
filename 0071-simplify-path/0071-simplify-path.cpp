@@ -37,7 +37,7 @@ public:
         reverse(dirs.begin(), dirs.end());
 
         string res = "";
-        for (string &dir : dirs) {
+        for (string dir : dirs) {
             res += "/" + dir;
         }
 
