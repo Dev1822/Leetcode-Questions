@@ -28,19 +28,19 @@ public:
             }
         }
 
-        vector<string> dirs;
-        while (!st.empty()) {
-            dirs.push_back(st.top());
+        vector <string> resVector={};
+        while(!st.empty()){
+            resVector.push_back(st.top());
             st.pop();
         }
-
-        reverse(dirs.begin(), dirs.end());
-
-        string res = "";
-        for (string dir : dirs) {
-            res += "/" + dir;
+        reverse(resVector.begin(),resVector.end());
+        string res="";
+        for(string i : resVector){
+            res+='/'+i;
         }
-
-        return res.empty() ? "/" : res;
+        if(res==""){
+            return "/";
+        }
+        return res;
     }
 };
