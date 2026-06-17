@@ -5,7 +5,7 @@ public:
         for(char i : s){
             freq[i]++;
         }
-        for(auto& [key,value] : freq){
+        for(auto &[key,value] : freq){
             if(value!=freq[s[0]]){
                 return false;
             }
