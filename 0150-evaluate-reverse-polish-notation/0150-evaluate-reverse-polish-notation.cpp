@@ -1,7 +1,7 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<int> st={};
+        stack <int> st={};
         for(string& i : tokens){
             if(i=="+" || i=="-" || i=="*" || i=="/"){
                 int b=st.top();
@@ -14,11 +14,11 @@ public:
                 else if(i=="-"){
                     st.push(a-b);
                 }
-                else if(i=="/"){
-                    st.push(a/b);
-                }
                 else if(i=="*"){
                     st.push(a*b);
+                }
+                else{
+                    st.push(a/b);
                 }
             }
             else{
