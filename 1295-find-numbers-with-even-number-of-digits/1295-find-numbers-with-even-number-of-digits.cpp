@@ -1,10 +1,17 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int count=0;
+        int result=0;
         for(int i : nums){
-            if(to_string(i).size()%2==0) count++;
+            int count=0;
+            while(i>0){
+                count++;
+                i=i/10;
+            }
+            if(count%2==0){
+                result++;
+            }
         }
-        return count;
+        return result;
     }
 };
