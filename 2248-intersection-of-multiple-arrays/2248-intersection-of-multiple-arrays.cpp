@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
         map <int,int> freq={};
-        for(auto& i : nums){
+        for(auto& i :nums){
             for(int j : i){
                 freq[j]++;
             }
