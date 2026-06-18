@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev1822/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dev1822/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dev1822/Leetcode-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Recursion
 |  |
 | ------- |
@@ -721,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
