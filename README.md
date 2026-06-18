@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Dev1822/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/Dev1822/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Dev1822/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dev1822/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dev1822/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Dev1822/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Dev1822/Leetcode-Questions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
