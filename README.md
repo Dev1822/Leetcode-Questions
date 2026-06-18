@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/Dev1822/Leetcode-Questions/tree/master/1037-valid-boomerang) |
+| [1051-height-checker](https://github.com/Dev1822/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Dev1822/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Dev1822/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
