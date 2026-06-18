@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Dev1822/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Dev1822/Leetcode-Questions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Dev1822/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
