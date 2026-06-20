@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Dev1822/Leetcode-Questions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Dev1822/Leetcode-Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Dev1822/Leetcode-Questions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Dev1822/Leetcode-Questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Dev1822/Leetcode-Questions/tree/master/0627-swap-sex-of-employees) |
