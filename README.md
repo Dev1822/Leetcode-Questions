@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Dev1822/Leetcode-Questions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dev1822/Leetcode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Dev1822/Leetcode-Questions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Dev1822/Leetcode-Questions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Dev1822/Leetcode-Questions/tree/master/1683-invalid-tweets) |
