@@ -1,6 +1,4 @@
 import pandas as pd
 
 def article_views(views: pd.DataFrame) -> pd.DataFrame:
-    res=views[views["author_id"] == views["viewer_id"]]
-    res=res["author_id"].drop_duplicates().sort_values()
-    return res.to_frame(name="id")
+    return views[views["author_id"]==views["viewer_id"]].sort_values(by="author_id",ascending=True).drop_duplicates(subset="author_id")["author_id"].to_frame(name="id")
