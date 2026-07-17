@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Dev1822/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev1822/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dev1822/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1002-find-common-characters) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dev1822/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
