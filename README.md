@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Dev1822/Leetcode-Questions/tree/master/1037-valid-boomerang) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dev1822/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1323-maximum-69-number) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1822/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dev1822/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Combinatorics
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dev1822/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dev1822/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
@@ -802,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dev1822/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dev1822/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
