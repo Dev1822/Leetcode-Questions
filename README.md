@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Dev1822/Leetcode-Questions/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dev1822/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1822/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -785,4 +787,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev1822/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
