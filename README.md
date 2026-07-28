@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Dev1822/Leetcode-Questions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dev1822/Leetcode-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dev1822/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev1822/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Dev1822/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
 | ------- |
