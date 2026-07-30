@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Dev1822/Leetcode-Questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dev1822/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Dev1822/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dev1822/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
