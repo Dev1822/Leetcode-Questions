@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Dev1822/Leetcode-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Dev1822/Leetcode-Questions/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/Dev1822/Leetcode-Questions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Dev1822/Leetcode-Questions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Dev1822/Leetcode-Questions/tree/master/0577-employee-bonus) |
