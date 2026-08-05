@@ -24,11 +24,11 @@ public:
             temp=NULL;
             return temp;
         }
-        slow=slow->next;
+        // slow=slow->next;
         for(int i=1;i<count;i++){
             temp=temp->next;
         }
-        temp->next=slow;
+        temp->next=slow->next;
         return head;
     }
 };
