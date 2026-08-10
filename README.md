@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dev1822/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev1822/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dev1822/Leetcode-Questions/tree/master/0383-ransom-note) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Dev1822/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev1822/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dev1822/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dev1822/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev1822/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Dev1822/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Dev1822/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dev1822/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
