@@ -24,14 +24,14 @@ public:
             if(numSet.count(temp->next->val)){
                 if(temp->next->next==NULL){
                     temp->next=NULL;
-                    break;
                 }
                 else{
                     temp->next=temp->next->next;
                 }
-                continue;
             }
-            temp=temp->next;
+            else{
+                temp=temp->next;
+            }
         }
         return head;
     }
