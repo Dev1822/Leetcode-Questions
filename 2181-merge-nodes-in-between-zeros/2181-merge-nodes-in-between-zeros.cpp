@@ -14,22 +14,19 @@ public:
         ListNode* res=NULL;
         ListNode* tail=NULL;
         int sum=0;
-        int zeroes=0;
+        head=head->next;
         while(head!=NULL){
             if(head->val==0){
-                zeroes++;
-                if(zeroes!=1){
-                    ListNode* newNode=new ListNode(sum);
-                    if(res==NULL){
-                        res=newNode;
-                        tail=newNode;
-                    }
-                    else{
-                        tail->next=newNode;
-                        tail=newNode;
-                    }
-                    sum=0;
+                ListNode* newNode=new ListNode(sum);
+                if(res==NULL){
+                    res=newNode;
+                    tail=newNode;
                 }
+                else{
+                    tail->next=newNode;
+                    tail=newNode;
+                }
+                sum=0;
             }
             else{
                 sum+=head->val;
