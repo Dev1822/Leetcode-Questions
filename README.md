@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dev1822/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dev1822/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Dev1822/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev1822/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dev1822/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dev1822/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Dev1822/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dev1822/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev1822/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -902,4 +906,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dev1822/Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
