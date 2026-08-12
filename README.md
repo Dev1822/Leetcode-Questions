@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev1822/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev1822/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/Dev1822/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dev1822/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev1822/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -896,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/Dev1822/Leetcode-Questions/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Dev1822/Leetcode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
