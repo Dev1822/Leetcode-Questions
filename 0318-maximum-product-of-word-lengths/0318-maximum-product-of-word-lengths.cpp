@@ -18,8 +18,8 @@ public:
                 }
 
                 if (!found) {
-                    ans = max(ans, 
-                        (int)(words[i].size() * words[j].size()));
+                    int product=words[i].size() * words[j].size();
+                    ans = max(ans,product);
                 }
             }
         }
