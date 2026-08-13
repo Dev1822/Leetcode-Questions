@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Dev1822/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Dev1822/Leetcode-Questions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Dev1822/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dev1822/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
