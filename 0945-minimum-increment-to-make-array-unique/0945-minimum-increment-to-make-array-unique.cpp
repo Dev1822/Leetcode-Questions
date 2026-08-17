@@ -3,17 +3,12 @@ public:
     int minIncrementForUnique(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int count=0;
-        int next=0;
-        for (int num : nums) {
-            if (num >= next) {
-                next = num + 1;
-            } 
-            else {
-                count += next - num;
-                next++;
+        for(int i=1;i<nums.size();i++){
+            while(nums[i-1]>=nums[i]){
+                nums[i]++;
+                count++;
             }
         }
-
         return count;
     }
 };
