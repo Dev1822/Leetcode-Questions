@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Dev1822/Leetcode-Questions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -942,9 +943,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
