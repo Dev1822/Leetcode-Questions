@@ -16,7 +16,6 @@ public:
                     if(freq[j]>1){
                         return false;
                     }
-                    cout<<(count/3)-subtract<<endl;
                     grids[(count/3)-subtract].push_back(j);
                 }
                 count++;
