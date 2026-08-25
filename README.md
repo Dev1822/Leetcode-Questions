@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dev1822/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dev1822/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Dev1822/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/1025-divisor-game) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dev1822/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Dev1822/Leetcode-Questions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
