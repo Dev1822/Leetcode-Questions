@@ -1,20 +1,12 @@
 class Solution {
 public:
     int countGoodSubstrings(string s) {
+        if(s.size()<3) return 0;
         int count = 0;
-        unordered_map<char, int> freq;
 
-        for (int i = 0; i < s.size(); i++) {
-            freq[s[i]]++;
-            if (i >= 3) {
-                freq[s[i - 3]]--;
-                if (freq[s[i - 3]] == 0) {
-                    freq.erase(s[i - 3]);
-                }
-            }
-            if (i >= 2 && freq.size() == 3) {
+        for(int i = 0; i <= s.length() - 3; i++){
+            if(s[i] != s[i + 1] && s[i] != s[i + 2] && s[i + 1] != s[i + 2])    
                 count++;
-            }
         }
 
         return count;
