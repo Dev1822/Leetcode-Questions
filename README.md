@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Dev1822/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Dev1822/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev1822/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dev1822/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Dev1822/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dev1822/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dev1822/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev1822/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dev1822/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Dev1822/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Dev1822/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Dev1822/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dev1822/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dev1822/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
