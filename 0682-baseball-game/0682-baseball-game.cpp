@@ -20,21 +20,7 @@ public:
                 st.push(a+b);
             }
             else{
-                char sign=i[0];
-                bool negative=false;
-                int index=0;
-                if(sign=='-'){
-                    negative=true;
-                    index=1;
-                }
-                int num=0;
-                for(int j=index;j<i.size();j++){
-                    num=(num*10)+(i[j]-'0');
-                }
-                if(negative){
-                    num=0-num;
-                }
-                st.push(num);
+                st.push(stoi(i));
             }
         }
         while(!st.empty()){
