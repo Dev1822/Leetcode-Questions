@@ -20,11 +20,11 @@ public:
             slow=slow->next;
             count++;
         }
+        cout << count ;
         if(count==0){
             temp=NULL;
             return temp;
         }
-        // slow=slow->next;
         for(int i=1;i<count;i++){
             temp=temp->next;
         }
