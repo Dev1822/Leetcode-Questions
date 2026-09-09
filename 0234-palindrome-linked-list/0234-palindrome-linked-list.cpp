@@ -20,11 +20,10 @@ public:
         i=i->next;
         ListNode* secondHalf=NULL;
         while(i!=NULL){
-            ListNode* newNode=new ListNode();
-            newNode->next=secondHalf;
-            newNode->val=i->val;
-            secondHalf=newNode;
-            i=i->next;
+            ListNode* nextNode=i->next;
+            i->next=secondHalf;
+            secondHalf=i;
+            i=nextNode;
         }
         while(secondHalf!=NULL){
             if(head->val!=secondHalf->val){
