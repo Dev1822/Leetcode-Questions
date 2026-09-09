@@ -20,8 +20,9 @@ public:
         i=i->next;
         ListNode* secondHalf=NULL;
         while(i!=NULL){
-            ListNode* newNode=new ListNode(i->val);
+            ListNode* newNode=new ListNode();
             newNode->next=secondHalf;
+            newNode->val=i->val;
             secondHalf=newNode;
             i=i->next;
         }
