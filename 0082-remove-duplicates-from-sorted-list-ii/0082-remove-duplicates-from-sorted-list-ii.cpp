@@ -11,29 +11,26 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        unordered_map <int,int> freq={};
-        ListNode* temp=head;
-        while(temp!=NULL){
-            freq[temp->val]++;
-            temp=temp->next;
-        }
-        ListNode* res=NULL;
-        ListNode* tail=NULL;
-        temp=head;
-        while(temp!=NULL){
-            if(freq[temp->val]==1){
-                ListNode* newNode=new ListNode(temp->val);
-                if(res==NULL){
-                    res=newNode;
-                    tail=newNode;
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* prev = dummy;
+        ListNode* curr = head;
+
+        while (curr != NULL) {
+            if (curr->next != NULL && curr->val == curr->next->val) {
+                int duplicateValue = curr->val;
+                while (curr != NULL && curr->val == duplicateValue) {
+                    curr = curr->next;
                 }
-                else{
-                    tail->next=newNode;
-                    tail=newNode;
-                }
+                prev->next = curr;
             }
-            temp=temp->next;
+            else {
+                prev = curr;
+                curr = curr->next;
+            }
         }
-        return res;
+
+        return dummy->next;
     }
 };
