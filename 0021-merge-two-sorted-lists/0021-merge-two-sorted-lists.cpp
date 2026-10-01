@@ -11,55 +11,45 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* res=NULL;
-        ListNode* tail=NULL;
-        while(list1!=NULL && list2!=NULL){
-            ListNode* newNode=NULL;
-            if(list1->val<list2->val){
-                newNode=new ListNode(list1->val);
-                list1=list1->next;
+
+        if (list1 == NULL)
+            return list2;
+
+        if (list2 == NULL)
+            return list1;
+
+        ListNode* head;
+        ListNode* tail;
+        ListNode* other;
+
+        if (list1->val <= list2->val) {
+            head = list1;
+            tail = list1;
+            other = list2;
+        }
+        else {
+            head = list2;
+            tail = list2;
+            other = list1;
+        }
+
+        while (other != NULL) {
+
+            if (tail->next == NULL || other->val <= tail->next->val) {
+
+                ListNode* temp = other;
+                other = other->next;
+
+                temp->next = tail->next;
+                tail->next = temp;
+
+                tail = temp;
             }
-            else{
-                newNode=new ListNode(list2->val);
-                list2=list2->next;
-            }
-            if(res==NULL){
-                res=newNode;
-                tail=newNode;
-            }
-            else{
-                tail->next=newNode;
-                tail=newNode;
+            else {
+                tail = tail->next;
             }
         }
-        if(list1!=NULL){
-            while(list1!=NULL){
-                ListNode* newNode=new ListNode(list1->val);
-                if(res==NULL){
-                    res=newNode;
-                    tail=newNode;
-                }
-                else{
-                    tail->next=newNode;
-                    tail=newNode;
-                }
-                list1=list1->next;
-            }
-        }
-        if(list2!=NULL){
-            while(list2!=NULL){
-                ListNode* newNode=new ListNode(list2->val);
-                if(res==NULL){
-                    res=newNode;
-                    tail=newNode;
-                }
-                else{
-                    tail->next=newNode;
-                    tail=newNode;
-                }
-                list2=list2->next;
-            }
-        }
-        return res;
+
+        return head;
     }
 };
