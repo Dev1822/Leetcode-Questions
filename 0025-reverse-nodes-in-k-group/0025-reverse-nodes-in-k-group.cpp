@@ -26,7 +26,7 @@ public:
             }
             ListNode* newNode=NULL;
             ListNode* newNodeTail=newNode;
-            for(int i=0;i<k && head!=NULL;i++){
+            for(int i=0;i<k;i++){
                 ListNode* temp=new ListNode(head->val);
                 if(newNode==NULL){
                     newNode=temp;
