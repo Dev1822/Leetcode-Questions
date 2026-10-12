@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dev1822/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Dev1822/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Dev1822/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dev1822/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dev1822/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dev1822/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dev1822/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Dev1822/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dev1822/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dev1822/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dev1822/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dev1822/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dev1822/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Dev1822/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dev1822/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Dev1822/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Dev1822/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev1822/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dev1822/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
