@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev1822/Leetcode-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Dev1822/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dev1822/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Dev1822/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Dev1822/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev1822/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dev1822/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Dev1822/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Dev1822/Leetcode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev1822/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dev1822/Leetcode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dev1822/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev1822/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Dev1822/Leetcode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev1822/Leetcode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev1822/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev1822/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
